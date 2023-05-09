@@ -52,6 +52,9 @@ _ALL_TOOLS = {
     'gcc': {
         'buildroot_name': 'gcc.br_real'
     },
+    'gcc.br_real': {
+        'buildroot_name': 'gcc.br_real'
+    },
     'gcov': {
         'buildroot_name': 'gcov'
     },
